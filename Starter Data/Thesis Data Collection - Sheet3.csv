@@ -1,0 +1,151 @@
+Hitter,Archetype,Pitcher,Month,Day,Year,Balls,Strikes,Inning,Pitch Type,Pitch Speed,Pitch Location,Result,BIP Location,Clicks - Hands Move,FPS
+"Madera, A",On-Baser,"Bailey, S",June,8,2025,2,2,B4,Fastball,92,Middle In - Strike,BIP Hard,Outfield Center,8,60
+"Madera, A",On-Baser,"Bailey, S",June,8,2025,1,1,B6,Changeup,82,Low In - Strike,BIP Hard,Infield Right,8,60
+"Madera, A",On-Baser,"Garayzar, R",June,7,2025,1,2,T1,Fastball,93,High In - Strike,BIP Hard,Outfield Left,7.5,60
+"Madera, A",On-Baser,"Kramkowski, O",June,6,2025,3,2,B1,Fastball,95,High Away - Strike,BIP Hard,Outfield Left,8,60
+"Madera, A",On-Baser,"Hensley, R.",June,2,2025,2,0,T1,Cutter,89,Middle Middle - Strike,BIP Hard,Infield Left,8,60
+"Madera, A",On-Baser,"Tate, D.",June,2,2025,1,0,T5,Fastball,94,Low Away - Strike,BIP Hard,Infield Left,8,60
+"Madera, A",On-Baser,"Tate, D.",June,2,2025,1,0,T7,Fastball,93,Middle Away - Strike,BIP Hard,Outfield Left Center,7.5,60
+"Madera, A",On-Baser,"Witherspoon, K.",May,31,2025,2,1,B1,Fastball,96,Middle In - Strike,BIP Hard,Infield Center,7.5,60
+"Madera, A",On-Baser,"Jones, G.",May,31,2025,2,2,B6,Fastball,93,Middle Middle - Strike,BIP Hard,Infield Left,7,60
+"Madera, A",On-Baser,"Lee, H.",May,25,2025,1,0,B5,Fastball,90,Middle In - Strike,BIP Hard,Outfield Left Center,7.5,60
+"Madera, A",On-Baser,"Mendes, W.",May,24,2025,1,2,T5,Curveball,73,Middle In - Strike,BIP Hard,Outfield Right Foul Line,8.5,60
+"Madera, A",On-Baser,"Volini, J.",May,24,2025,0,0,T9,Fastball,90,Middle Middle - Strike,BIP Hard,Infield Right,7.5,60
+"Madera, A",On-Baser,"Mendes, W.",May,17,2025,2,1,T2,Fastball,92,Middle Middle - Strike,BIP Hard,Outfield Left Center,7.5,60
+"Madera, A",On-Baser,"Volini, J.",May,16,2025,3,1,T3,Fastball,90,High In - Strike,BIP Hard,Outfield Center,7,60
+"Madera, A",On-Baser,"Charles, J.",May,16,2025,3,1,T4,Slider,87,Low In - Strike,BIP Hard,Infield Right,8,60
+"Madera, A",On-Baser,"Fritton, D.",May,9,2025,0,0,B2,Fastball,95,High Middle - Strike,BIP Hard,Infield Left,6.5,60
+"Madera, A",On-Baser,"Fritton, D.",May,9,2025,0,0,B4,Curveball,84,High In - Strike,BIP Hard,Outfield Left,7.5,60
+"Madera, A",On-Baser,"Nance, A.",May,9,2025,2,1,B8,Curveball,83,Middle In - Strike,BIP Hard,Infield Right,7.5,60
+"Madera, A",On-Baser,"Siegner, D.",May,6,2025,1,1,B7,Fastball,91,Middle In - Strike,BIP Hard,Outfield Left Center,8,60
+"Madera, A",On-Baser,"Renaud, J.",April,30,2025,0,0,B2,Fastball,88,Low In - Strike,BIP Hard,Home Run Right,8,60
+"Madera, A",On-Baser,"Rumberg, L.",April,29,2025,2,0,B7,Fastball,92,Middle Away - Strike,BIP Hard,Infield Center,7.5,60
+"Madera, A",On-Baser,"Bilo, M.",April,29,2025,0,2,B7,Changeup,80,Low Middle - Strike,BIP Hard,Infield Right,8.5,60
+"Madera, A",On-Baser,"Gardner, P.",April,25,2025,1,1,T4,Fastball,88,Low In - Strike,BIP Hard,Home Run Left Center,7.5,60
+"Madera, A",On-Baser,"Socarras, A.",April,25,2025,2,2,T9,Cutter,86,Low In - Ball,BIP Hard,Infield Right,7.5,60
+"Madera, A",On-Baser,"Marciano, J.",April,19,2025,0,1,T2,Fastball,91,Middle In - Strike,BIP Hard,Outfield Left,7,60
+"Madera, A",On-Baser,"Marciano, J.",April,19,2025,0,0,T4,Slider,81,Middle Middle - Strike,BIP Hard,Outfield Left Center,7.5,60
+"Madera, A",On-Baser,"Schmolke, L.",April,12,2025,2,2,B3,Curveball,83,Low In - Strike,BIP Hard,Infield Right,8,60
+"Madera, A",On-Baser,"Levonas, C.",April,11,2025,0,0,B2,Fastball,93,Middle In - Strike,BIP Hard,Outfield Right,6.5,60
+"Madera, A",On-Baser,"Bedford, M.",April,11,2025,1,0,B6,Fastball,93,High In - Strike,BIP Hard,Infield Center,7,60
+"Madera, A",On-Baser,"Zatkowski, H.",April,5,2025,1,0,B2,Fastball,87,Middle In - Ball,BIP Hard,Infield Center,7.5,60
+"Condon, C.",Run Producer,"Whitaker, L.",June,10,2024,1,0,B1,Fastball,93,High Middle - Strike,BIP Hard,Outfield Left,8,60
+"Condon, C.",Run Producer,"Moss, W.",April,27,2024,2,2,T7,Slider,83,Middle middle - Strike,BIP Hard,Home Run Left,9,60
+"Condon, C.",Run Producer,"Fritton, D.",June,9,2024,1,1,T1,Fastball,93,Low Away - Strike,BIP Hard,Infield Left,7.5,60
+"Condon, C.",Run Producer,"Marohn, R.",June,9,2024,3,2,T6,Fastball,91,Middle In - Ball,BIP Hard,Infield Left,8,60
+"Condon, C.",Run Producer,"Fanning, H.",June,9,2024,0,1,T8,Slider,82,Middle Middle - Strike,BIP Hard,Infield Left,7,60
+"Condon, C.",Run Producer,"Highfill, S.",June,8,2024,2,0,B1,Fastball,92,Low Middle - Strike,BIP Hard,Outfield Right Center,8.5,60
+"Condon, C.",Run Producer,"Highfill, S.",June,8,2024,2,1,B3,Fastball,91,Middle In - Strike,BIP Hard,Outfield Center,8,60
+"Condon, C.",Run Producer,"Patel, M.",June,2,2024,0,1,T3,Fastball,88,High In - Strike,BIP Hard,Infield Left,8.5,60
+"Condon, C.",Run Producer,"Doyle, L.",April,20,2024,2,1,B5,Changeup,81,Middle In - Strike,BIP Hard,Home Run Left,8,60
+"Condon, C.",Run Producer,"Ronnebaum, M.",May,31,2024,1,2,B3,Slider,84,Low In - Strike,BIP Hard,Outfield Left,8,60
+"Condon, C.",Run Producer,"Jump, G.",May,21,2024,0,1,B5,Fastball,95,Low In - Strike,BIP Hard,Infield Left Foul Line,8.5,60
+"Condon, C.",Run Producer,"Caglianone, J.",May,18,2024,3,2,B1,Fastball,95,High Away - Strike,BIP Hard,Infield Right Foul Line,7.5,60
+"Condon, C.",Run Producer,"Mallitz, J.",April,20,2024,3,1,B7,Slider,81,High Away - Ball,BIP Hard,Home Run Left Center,7.5,60
+"Condon, C.",Run Producer,"Neely, B.",May,17,2024,2,1,B7,Slider,84,Low Away - Strike,BIP Hard,Infield Left,8,60
+"Condon, C.",Run Producer,"Neely, B.",May,17,2024,0,0,B10,Slider,83,High Middle - Strike,BIP Hard,Outfield Left,7.5,60
+"Condon, C.",Run Producer,"Mccreery, C.",May,10,2024,0,2,T4,Slider,88,Low Middle - Strike,BIP Hard,Infield Left,9,60
+"Condon, C.",Run Producer,"Kimball, R.",May,9,2024,1,1,T1,Slider,83,Middle Middle - Strike,BIP Hard,Outfield Left Center,8,60
+"Condon, C.",Run Producer,"Smith, D.",June,10,2024,3,1,B9,Fastball,92,Middle Middle - Strike,BIP Hard,Home Run Right,7,60
+"Condon, C.",Run Producer,"Slater, R.",May,18,2024,0,0,B8,Slider,87,Middle Middle - Strike,BIP Hard,Home Run Center,8,60
+"Condon, C.",Run Producer,"Holton, C.",May,4,2024,1,2,B4,Slider,87,Middle Away - Ball,BIP Hard,Infield Left,8,60
+"Condon, C.",Run Producer,"Good, T.",May,9,2024,0,0,T2,Fastball,92,Low In - Strike,BIP Hard,Home Run Left,8.5,60
+"Condon, C.",Run Producer,"Guth, L.",May,5,2024,3,1,B6,Slider,80,High Away - Strike,BIP Hard,Home Run Left,8.5,60
+"Condon, C.",Run Producer,"Huesman, L.",May,3,2024,1,1,B6,Slider,78,High Middle - Strike,BIP Hard,Infield Center,8.5,60
+"Condon, C.",Run Producer,"Cunningham, B.",May,3,2024,3,1,B1,Changeup,85,Low In - Strike,BIP Hard,Home Run Left,8,60
+"Condon, C.",Run Producer,"Doyle, L.",April,20,2024,2,2,B3,Fastball,94,High Away - Strike,BIP Hard,Outfield Right Foul Line,8,60
+"Condon, C.",Run Producer,"Ronnebaum, M.",May,31,2024,1,1,B1,Fastball,92,High In - Strike,BIP Hard,Home Run Left Center,8,60
+"Condon, C.",Run Producer,"Hliboki, S.",May,4,2024,0,0,B7,Fastball,88,Middle Away - Strike,BIP Hard,Home Run Right,7.5,60
+"Condon, C.",Run Producer,"Simmons, A.",April,20,2024,0,1,B8,Fastball,93,Middle middle - Strike,BIP Hard,Infield Center,7,60
+"Condon, C.",Run Producer,"Dennis, G.",April,20,2024,3,0,B3,Fastball,88,Middle Away - Ball,BIP Hard,Outfield Right Center,8,60
+"Condon, C.",Run Producer,"Dennis, G.",April,20,2024,1,2,B5,Changeup,79,High Away - Ball,BIP Hard,Infield Left,8,60
+"Harber, P.",Barrel Controler,"Whittaker, C.",June ,18,2024,1,2,B5,Slider,84,Low In - Strike,BIP Hard,Outfield Left,8,60
+"Harber, P.",Barrel Controler,"Snead, N.",June,16,2024,0,0,T8,Fastball,98,Middle In - Strike,BIP Hard,Outfield Left Center,7,60
+"Harber, P.",Barrel Controler,"Switalski, T.",June,8,2024,0,0,T3,Changeup,84,Low Middle - Strike,BIP Hard,Infield Left,7,60
+"Harber, P.",Barrel Controler,"Clark, D.",June,7,2024,0,1,B3,Changeup,80,Low Middle - Strike,BIP Hard,Infield Left,8.5,60
+"Harber, P.",Barrel Controler,"Hellmers, W.",June,3,2024,0,1,T2,Fastball,93,Middle In - Strike,BIP Hard,Outfield Left,8,60
+"Harber, P.",Barrel Controler,Hurd T.,June,2,2024,1,2,T4,Fastball,96,Low Away - Ball,BIP Hard,Infield Right Foul Line,7,60
+"Harber, P.",Barrel Controler,Hurd T.,June,2,2024,0,2,T6,Slider,87,High Middle - Strike,BIP Hard,Outfield Right Center,8,60
+"Harber, P.",Barrel Controler,"Moritz, P.",May,31,2024,2,0,B9,Fastball,82,Middle In - Strike,BIP Hard,Infield Right,7.5,60
+"Harber, P.",Barrel Controler,"Burns, C.",May,24,2024,3,1,B1,Slider,88,Middle In - Strike,BIP Hard,Outfield Center,8.5,60
+"Harber, P.",Barrel Controler,"Roland, C.",May,24,2024,1,2,B8,Slider,84,Low Away - Ball,BIP Hard,Outfield Center,7.5,60
+"Harber, P.",Barrel Controler,"Gunther, J.",May,24,2024,0,2,B10,Slider,78,Low Away - Strike,BIP Hard,Outfield Center,8.5,60
+"Harber, P.",Barrel Controler,"Andrade, R.",May,23,2024,1,1,T1,Fastball,94,High In - Strike,BIP Hard,Home Run Right Center,6,60
+"Harber, P.",Barrel Controler,"Boisvert, D.",May,17,2024,1,2,T5,Slider,85,Low Away - Strike,BIP Hard,Outfield Center,7.5,60
+"Harber, P.",Barrel Controler,"Tallon, J.",May,17,2024,2,2,T7,Slider,82,Middle Away - Strike,BIP Hard,Infield Center,8,60
+"Harber, P.",Barrel Controler,"Johnson, K.",May,16,2024,1,0,T7,Changeup,80,Low Middle - Strike,BIP Hard,Home Run Left,7,60
+"Harber, P.",Barrel Controler,"Ligget, C.",May,12,2024,2,0,B2,Fastball,92,Middle In - Strike,BIP Hard,Outfield Center,6.5,60
+"Harber, P.",Barrel Controler,"Webster, E.",May,11,2024,2,2,B1,Fastball,89,High Away - Strike,BIP Hard,Outfield Left,7.5,60
+"Harber, P.",Barrel Controler,"Corbett, K.",May,11,2024,2,2,B7,Fastball,90,Middle Away - Strike,BIP Hard,Outfield Right Foul Line,7,60
+"Harber, P.",Barrel Controler,"Gongora, S.",May,10,2024,2,2,B3,Fastball,91,Middle Away - Ball,BIP Hard,Home Run Center,8,60
+"Harber, P.",Barrel Controler,"Lippman, H.",May,1,2024,2,2,B1,Slider,83,Low Middle - Strike,BIP Hard,Home Run Right Center,7,60
+"Harber, P.",Barrel Controler,"Hansen, C.",April,30,2024,0,1,B1,Fastball,92,Low Away - Strike,BIP Hard,Home Run Right Center,7,60
+"Harber, P.",Barrel Controler,"Degges, R.",April,30,2024,0,1,B2,Slider,83,Low Away - Strike,BIP Hard,Outfield Center,8,60
+"Harber, P.",Barrel Controler,"Kirtner, B.",April,28,2024,1,1,B7,Curveball,N/A,Low Away - Strike,BIP Hard,Outfield Right,8,60
+"Harber, P.",Barrel Controler,"Little, J.",April,28,2024,2,1,B9,Fastball,N/A,High Middle - Strike,BIP Hard,Outfield Left,8,60
+"Harber, P.",Barrel Controler,"Neff, J.",April,26,2024,1,2,B1,Fastball,92,Middle Middle - Strike,BIP Hard,Infield Left,7.5,60
+"Harber, P.",Barrel Controler,"Neff, J.",April,26,2024,0,0,B3,Changeup,81,Low Middle - Strike,BIP Hard,Home Run Left,9,60
+"Harber, P.",Barrel Controler,"Manning, G.",April,26,2024,2,2,B8,Fastball,92,High Away - Ball,BIP Hard,Infield Center,7.5,60
+"Harber, P.",Barrel Controler,"Hodges, G.",April,23,2024,2,1,B6,Fastball,95,Middle Middle - Strike,BIP Hard,Outfield Right,8,60
+"Harber, P.",Barrel Controler,"Shaffner, A.",April,20,2024,1,1,T5,Fastball,93,High Away - Ball,BIP Hard,Outfield Right,7.5,60
+"Harber, P.",Barrel Controler,"Fritton, D.",April,19,2024,0,1,T4,Changeup,86,Low Away - Strike,BIP Hard,Home Run Right Center,8.5,60
+"Austin, R.",On-Baser,"Calhoun, H.",May,25,2025,0,0,B8,Slider,88,High Middle - Strike,BIP Hard,Infield Left,8,60
+"Austin, R.",On-Baser,"Krenzel, B.",May,24,2025,0,2,B6,Changeup,82,Middle Middle - Strike,BIP Hard,Outfield Left,9,60
+"Austin, R.",On-Baser,"Crossland, C.",May,22,2025,1,2,B3,Changeup,86,Middle Middle - Strike,BIP Hard,Outfield Left,9,60
+"Austin, R.",On-Baser,"Bodin, J.",May,22,2025,0,2,B7,Changeup,90,Low In - Strike,BIP Hard,Infield Left,7.5,60
+"Austin, R.",On-Baser,"Adcock, N.",May,17,2025,1,0,B7,Slider,82,Middle In - Ball,BIP Hard,Outfield Left,8.5,60
+"Austin, R.",On-Baser,"McCay, N.",May,16,2025,2,0,B1,Fastball,91,Low In - Strike,BIP Hard,Infield Left,8,60
+"Austin, R.",On-Baser,"McCay, N.",May,16,2025,0,0,B4,Curveball,76,Middle Middle - Strike,BIP Hard,Infield Left,8.5,60
+"Austin, R.",On-Baser,"Harris, N.",May,15,2025,2,0,B1,Fastball,92,High In - Strike,BIP Hard,Infield Left,8,60
+"Austin, R.",On-Baser,"Kuhns, T.",May,11,2025,0,2,T1,Changeup,87,High In - Strike,BIP Hard,Outfield Center,8,60
+"Austin, R.",On-Baser,"Kuhns, T.",May,11,2025,1,2,T3,Cutter,91,Low Away - Strike,BIP Hard,Outfield Right,7.5,60
+"Austin, R.",On-Baser,"Doyle, L.",May,9,2025,0,2,T6,Fastball,98,Low Away - Strike,BIP Hard,Infield Left,7.5,60
+"Austin, R.",On-Baser,"Schweitzer, J.",May,6,2025,3,2,T9,Fastball,91,Middle Middle - Strike,BIP Hard,Outfield Center,7.5,60
+"Austin, R.",On-Baser,"Quick, R.",May,3,2025,0,0,B1,Fastball,98,Middle Away - Strike,BIP Hard,Infield Left,8,60
+"Austin, R.",On-Baser,"Fay, T.",May,2,2025,0,0,B1,Fastball,91,Middle Middle - Strike,BIP Hard,Infield Right Foul Line,7.5,60
+"Austin, R.",On-Baser,"Fay, T.",May,2,2025,1,2,B6,Cutter,87,Low Middle - Strike,BIP Hard,Infield Left,8.5,60
+"Austin, R.",On-Baser,"Lehman, C.",May,2,2025,0,0,B7,Fastball,91,Low In - Strike,BIP Hard,Outfield Left Center,8,60
+"Austin, R.",On-Baser,"Buchanan, C.",May,2,2025,3,2,B8,Slider,81,Low Middle - Strike,BIP Hard,Home Run Left,8.5,60
+"Austin, R.",On-Baser,"Hooks, W.",April,27,2025,1,2,T2,Fastball,90,Low In - Strike,BIP Hard,Infield Left,8.5,60
+"Austin, R.",On-Baser,"Maddox, R.",April,26,2025,2,1,T2,Fastball,93,Low Middle - Strike,BIP Hard,Infield Center,7.5,60
+"Austin, R.",On-Baser,"Lyne, T.",April,15,2025,3,2,B5,Fastball,87,High Away - Ball,BIP Hard,Outfield Right,8.5,60
+"Austin, R.",On-Baser,"Johnson, C.",April,13,2025,1,0,T8,Fastball,95,Low Away - Strike,BIP Hard,Outfield Right,7.5,60
+"Austin, R.",On-Baser,"Witherspoon, K.",April,12,2025,0,0,T4,Cutter,91,Middle Middle - Strike,BIP Hard,Outfield Center,7.5,60
+"Austin, R.",On-Baser,"Philpott, A.",April,6,2025,1,1,T3,Fastball,92,Middle Away - Strike,BIP Hard,Outfield Center,8,60
+"Austin, R.",On-Baser,"Peterson, L.",April,4,2025,0,0,T3,Changeup,85,Middle Away - Strike,BIP Hard,Outfield Center,7.5,60
+"Austin, R.",On-Baser,"Peterson, L.",April,4,2025,1,1,T5,Fastball,93,Middle Away - Strike,BIP Hard,Outfield Left Center,7.5,60
+"Austin, R.",On-Baser,"Hartman, L.",April,1,2025,3,2,B1,Cutter,87,Middle Middle - Strike,BIP Hard,Outfield Left,8.5,60
+"Austin, R.",On-Baser,"Beidelschies, L.",March,30,2025,3,2,B3,Fastball,94,Middle In - Strike,BIP Hard,Outfield Left,8,60
+"Austin, R.",On-Baser,"Bybee, B.",March,30,2025,2,2,B7,Curveball,81,Middle Away - Strike,BIP Hard,Outfield Right,7.5,60
+"Austin, R.",On-Baser,"Jimenez, A.",March,28,2025,0,2,B8,Cutter,90,Low Middle - Strike,BIP Hard,Outfield Left,8.5,60
+"Austin, R.",On-Baser,"Collins, H.",March,25,2025,3,2,B6,Slider,77,Middle Middle - Strike,BIP Hard,Outfield Left Center,8,60
+"Lebron, J.",Run Producer,"Ciscar, A.",May,30,2025,0,2,B1,Fastball,92,High Away - Strike,BIP Hard,Outfield Left Center,8,60
+"Lebron, J.",Run Producer,"McNeillie, L.",May,17,2025,0,1,T7,Slider,86,Middle Away - Strike,BIP Hard,Outfield Center,9,60
+"Lebron, J.",Run Producer,"Coppola, P.",May,16,2025,0,2,T3,Fastball,93,High Middle - Strike,BIP Hard,Outfield Center,8.5,60
+"Lebron, J.",Run Producer,"Peterson, L.",May,15,2025,1,1,T3,Changeup,83,Middle In - Strike,BIP Hard,Home Run Left Center,8.5,60
+"Lebron, J.",Run Producer,"Finley, L.",May,11,2025,1,1,B4,Fastball,95,Middle In - Strike,BIP Hard,Outfield Left Foul Line,9,60
+"Lebron, J.",Run Producer,"Smith, K.",May,11,2025,2,1,B1,Slider,83,High Away - Strike,BIP Hard,Home Run Left,9,60
+"Lebron, J.",Run Producer,"Radtke, D.",May,11,2025,1,1,B6,Slider,80,Middle In - Ball,BIP Hard,Infield Center,8,60
+"Lebron, J.",Run Producer,"Curley, B.",May,9,2025,1,2,B3,Fastball,96,Middle In - Strike,BIP Hard,Infield Left,8.5,60
+"Lebron, J.",Run Producer,"Roettgen, J.",May,6,2025,2,1,T1,Fastball,89,Low In - Strike,BIP Hard,Home Run Left,8.5,60
+"Lebron, J.",Run Producer,"Falinski, A.",May,6,2025,0,1,T4,Fastball,93,High In - Strike,BIP Hard,Outfield Left,7.5,60
+"Lebron, J.",Run Producer,"Bowker, C.",May,3,2025,2,1,T1,Cutter,85,Middle Away - Strike,BIP Hard,Outfield Left,8,60
+"Lebron, J.",Run Producer,"Green, M.",May,2,2025,1,0,T8,Slider,79,Middle In - Strike,BIP Hard,Infield Center,9,60
+"Lebron, J.",Run Producer,"Rice, B.",April,22,2025,0,0,T2,Slider,82,Middle Middle - Strike,BIP Hard,Infield Left,8.5,60
+"Lebron, J.",Run Producer,"Horowicz, C.",April,22,2025,0,1,T4,Fastball,97,High In - Ball,BIP Hard,Outfield Left,9,60
+"Lebron, J.",Run Producer,"Lee, J.",April,22,2025,3,1,T9,Slider,81,Low Middle - Strike,BIP Hard,Outfield Center,9,60
+"Lebron, J.",Run Producer,"Ware, C.",April,19,2025,0,1,T1,Changeup,84,High Away - Strike,BIP Hard,Infield Left,8.5,60
+"Lebron, J.",Run Producer,"Shores, C.",April,19,2025,1,1,T3,Slider,86,Low Away - Strike,BIP Hard,Infield Left,8.5,60
+"Lebron, J.",Run Producer,"Shores, C.",April,19,2025,1,1,T4,Fastball,96,Low Middle - Strike,BIP Hard,Outfield Right,8.5,60
+"Lebron, J.",Run Producer,"Eyanson, A.",April,18,2025,1,0,T1,Slider,84,Low Middle - Strike,BIP Hard,Outfield Left,8.5,60
+"Lebron, J.",Run Producer,"Anderson, K.",April,17,2025,0,0,T6,Changeup,83,High Middle - Strike,BIP Hard,Outfield Left,9.5,60
+"Lebron, J.",Run Producer,"Hungate, C.",April,13,2025,0,0,B6,Fastball,88,Middle Middle - Strike,BIP Hard,Outfield Right Center,7,60
+"Lebron, J.",Run Producer,"Kohn, P.",April,11,2025,1,0,B1,Slider,79,Middle Middle - Strike,BIP Hard,Outfield Left,8.5,60
+"Lebron, J.",Run Producer,"Kohn, P.",April,11,2025,0,1,B4,Fastball,90,Middle Middle - Strike,BIP Hard,Home Run Right,7.5,60
+"Lebron, J.",Run Producer,"Adams, M.",April,8,2025,2,1,B3,Slider,83,Middle Away - Strike,BIP Hard,Infield Left,7.5,60
+"Lebron, J.",Run Producer,"Payne, L.",April,8,2025,1,2,B6,Slider,86,Middle Middle - Strike,BIP Hard,Outfield Left Foul Line,8.5,60
+"Lebron, J.",Run Producer,"Allen, C.",April,8,2025,1,2,B8,Fastball,92,Low Away - Strike,BIP Hard,Infield Right,8,60
+"Lebron, J.",Run Producer,"Fisher, C.",April,5,2025,0,2,T1,Fastball,91,High Middle - Strike,BIP Hard,Infield Right,7.5,60
+"Lebron, J.",Run Producer,"Tilly, C.",April,5,2025,2,2,T5,Changeup,87,Low In - Strike,BIP Hard,Outfield Left Foul Line,8,60
+"Lebron, J.",Run Producer,"Tilly, C.",April,5,2025,1,0,T7,Slider,81,Middle Away - Strike,BIP Hard,Outfield Left,8.5,60
+"Lebron, J.",Run Producer,"Myers, C.",April,5,2025,1,0,T9,Slider,80,Middle Middle - Strike,BIP Hard,Home Run Left,7.5,60
